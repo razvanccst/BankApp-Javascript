@@ -16,7 +16,6 @@ In this project i've put in practice all **Array Methods** provided in Javascrip
 Project created following the [Javascript Course](https://www.udemy.com/course/the-complete-javascript-course/).
 
 --------------
-HTML & CSS was provide by the course
-
+HTML & CSS provided by the course.
 
 
